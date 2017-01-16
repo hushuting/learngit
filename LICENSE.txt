@@ -1,2 +1,3 @@
 New License file.Creating a new branch is quick and simple.
 add a merge way.
+I am doing something…
